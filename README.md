@@ -1,4 +1,4 @@
-# fastapi-tutorial-cockroachdb
+# fastapi-tutorial-cockroachdb-sync
 
 The FastAPI SQL database tutorial modified to use CockroachDB.
 
