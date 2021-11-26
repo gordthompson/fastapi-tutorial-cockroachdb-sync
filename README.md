@@ -2,7 +2,10 @@
 
 The FastAPI SQL database tutorial modified to use CockroachDB.
 
-Proof-of-concept that using FastAPI with CockroachDB does *not* require async.
+Proof-of-concept that using FastAPI with CockroachDB does not necessarily require async.
+However, there is an async version of this tutorial at
+
+https://github.com/gordthompson/fastapi-tutorial-cockroachdb-async
 
 See
 
